@@ -11,11 +11,7 @@ blurb:
     profits are reinvested in their communities.
 intro:
   heading: What we offer
-  text: >-
-    <iframe src="//iframe.dacast.com/b/56006/c/521673" width="640" height="360"
-    frameborder="0" scrolling="no" allow="autoplay" allowfullscreen
-    webkitallowfullscreen mozallowfullscreen oallowfullscreen
-    msallowfullscreen></iframe>
+  text: '{{< dacast >}}'
 products:
   - image: img/illustrations-coffee.svg
     text: >-
